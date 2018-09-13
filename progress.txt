@@ -1,0 +1,9 @@
+To do list:
+
+Phase 1: Building scraper
+Phase 2: Building web page to communicate with scraper. Not using REST API yet
+Phase 3: Building REST API 
+
+Progress Tracker:
+10/09/2018 : Build project environment [Finished]
+11/09/2018 : Create Sriwijaya automation input form
